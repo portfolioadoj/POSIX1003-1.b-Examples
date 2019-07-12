@@ -1,0 +1,3 @@
+mi primer arg. es -inic
+4
+5
